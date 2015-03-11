@@ -1,0 +1,8 @@
+Green car Pontiac GrandPrix 5000.00 Hybrid 10
+Green car Pontiac GrandPrix 7000.00 Hydrogen 15
+SUV Dodge Viper 10000 9 15
+SUV Dodge Viper 20100 9 20
+SUV Ford Mustang 15000 5 10
+SUV Ford F150 20000 6 15
+Used SUV Ford Mustang 7000 5 20 8
+Used SUV Honda Civic 10000 5 10 6

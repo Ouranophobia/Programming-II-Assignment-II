@@ -1,0 +1,18 @@
+Green Car Make: Pontiac Model: GrandPrix Base Price: 5000.0 Premium Price: 10.0% Final Price: 5500.0 Type: Hybrid
+Green Car Make: Pontiac Model: GrandPrix Base Price: 7000.0 Premium Price: 15.0% Final Price: 8050.0 Type: Hydrogen
+SUV Make: Dodge Model: Viper Base Price: 10000.0 Seat Capacity: 9 Discount: 15.0%. Final price: 8500.0
+SUV Make: Dodge Model: Viper Base Price: 20100.0 Seat Capacity: 9 Discount: 20.0%. Final price: 16080.0
+SUV Make: Ford Model: Mustang Base Price: 15000.0 Seat Capacity: 5 Discount: 10.0%. Final price: 13500.0
+SUV Make: Ford Model: F150 Base Price: 20000.0 Seat Capacity: 6 Discount: 15.0%. Final price: 17000.0
+Used SUV Make: Ford Model: Mustang Base Price: 7000.0 Seat Capacity: 5 Discount: 20.0% Age of Car: 8 years. With the final cost of: $4480.0
+Used SUV Make: Honda Model: Civic Base Price: 10000.0 Seat Capacity: 5 Discount: 10.0% Age of Car: 6 years. With the final cost of: $7200.0
+Are the first and second SUV equal: true
+Are the third and fourth SUV equal: false
+Are the two Green Cars equal: false
+Are the two Used SUV equal: false
+The first SUV's discount has been changed to 20%.
+The first SUV's new price is 8000.0
+The first Green Car's premium discount has been changed to 20%.
+The first Green Car's new price is 6000.0
+The first Used SUV's discount has been changed to 5%.
+The first Used SUV's new price is 6650.0
